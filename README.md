@@ -20,7 +20,7 @@
        alt="snake" /></a>
 </div>
 <div align="center">
- <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs?username=po3nx&layout=pie](https://github-readme-stats.vercel.app/api/top-langs?username=po3nx&layout=pie)"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=po3nx&layout=pie"/>
 </div>div>
 ## :trophy: Tech Stack: :robot:
 
