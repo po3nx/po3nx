@@ -19,7 +19,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=po3nx&layout=pie)](https://github.com/po3nx)
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=po3nx&layout=pie"/>
 ## :trophy: Tech Stack: :robot:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
