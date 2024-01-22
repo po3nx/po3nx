@@ -19,7 +19,9 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=po3nx&layout=pie"/>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=po3nx&layout=compact"/>
+</div>div>
 ## :trophy: Tech Stack: :robot:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
