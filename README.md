@@ -16,8 +16,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https:/pung.pw/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https:/pung.pw/grid-snake.svg" alt="snake" /></a>
 </div>
 <div align="center">
  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=po3nx&layout=pie"/>
