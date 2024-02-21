@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/po3nx) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/po3nx)
 
 <p align="center">
-  <a href="https://github.com/po3nx"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Purwanto;I+am+a+Senior+Software+Engineer;Fullstack+Web+Developer;Bot+Developer"></a>
+  <a href="https://github.com/po3nx"><img src="https://pung.pw/svg?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Purwanto;I+am+a+Senior+Software+Engineer;Fullstack+Web+Developer;Bot+Developer"></a>
 </p>
 
 <!--- snake -->
