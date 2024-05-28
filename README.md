@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <a href="https://github.com/po3nx"><img src="https://pung.pw/svg/?font=Russo+One&style=neon&text=Welcome+to+Po3nX`s+Github+Profile&size=25&pause=1000&random=false&width=435&lines=welcome"></a>
+  <a href="https://github.com/po3nx"><img src="https://pung.pw/svg/?font=Russo+One&style=neon&text=Welcome+to+Po3nX+Github+Profile&size=25&pause=1000&random=false&width=435&lines=welcome"></a>
 </p>
 
 
