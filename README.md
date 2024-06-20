@@ -29,6 +29,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Golang](https://img.shields.io/badge/Golang-3776AC?style=for-the-badg&logo=go&logoColor=white)](https://img.shields.io/badge/Golang-3776AC?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-3776AC?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
