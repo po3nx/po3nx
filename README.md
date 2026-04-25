@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/po3nx)
 
 <p align="center">
-  <a href="https://github.com/po3nx"><img src="https://pung.pw/svg?color=%233E8457&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Purwanto;I+am+a+Senior+Software+Engineer;Fullstack+Web+Developer;Bot+Developer"></a>
+  <a href="https://github.com/po3nx"><img src="https://pung.pw/svg?color=%233E8457&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I’m+Purwanto;a+Senior+Software+Engineer;Fullstack+Web+Developer;Bot+Developer"></a>
 </p>
 
 <!--- snake -->
